@@ -1,6 +1,6 @@
 # UNOFFICIAL ArenaAPK
 
-# THANKS FOR 31 DOWNLOADS
+# THANKS FOR 37 DOWNLOADS
 
 The **UNOFFICIAL** Arena.ai APK
 Welcome to the Unofficial Arena APK.
