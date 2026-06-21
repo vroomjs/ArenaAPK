@@ -16,6 +16,4 @@ This App is *Unofficial* and is *NOT* _endorsed_ _supported_
 *updated* or *maintained* by _Arena.ai_ or any of its third party's 
 or *any* staff.
 
-As per recent rules I am unable to post the download link in the discord server
-please contact me yourself if you want to *update* your latest, 
-or *install* the latest UAA version.
+I am discussing with staff for future updates...
